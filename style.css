@@ -1,0 +1,22 @@
+
+/*
+ * Theme Name : mytheme
+ * Theme URI :
+ * Author: saharul sifat
+ * Author URI: https://saharulsifat.com
+ * Description: My First theme in wordpress
+ * Version: 1.0
+ * License: Bionic Public License v2 or later
+ * License URI : https://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: blog, educations
+ * Text Domain: mytheme
+ * */
+
+
+.blog-img{
+}
+
+
+ul#menu-menu-1 {
+    display: flex;
+}
